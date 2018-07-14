@@ -11,3 +11,6 @@ Resources I found extremely lovely.
 - [Big O CheatSheet](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
 
 Then I highly recommend LeetCode for practicing programming problems, completing the top 50% acceptance rating problems will be sufficient!
+
+### Reads/Books
+- [TCP/IP](http://www.cs.newpaltz.edu/~pletcha/NET_PY/the-protocols-tcp-ip-illustrated-volume-1.9780201633467.24290.pdf)
